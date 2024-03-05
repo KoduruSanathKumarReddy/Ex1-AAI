@@ -1,5 +1,5 @@
-<H3> Name </H3>
-<H3>Register No.</H3>
+<H3> Name :Koduru Sanath Kumar Reddy</H3>
+<H3>Register No. 212221240024</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
@@ -22,10 +22,6 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-~~~
-Developed by: Koduru Sanath Kumar Reddy
-Reg n0: 212221240024
-~~~
 ~~~
 pip install pybbn
 import pandas as pd # for data manipulation
